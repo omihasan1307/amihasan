@@ -52,26 +52,26 @@
     }
   },
   {
-    "id": 1,
-    "project": "Website link management (BeeLink)",
+    "id": 2,
+    "project": "Music World (an E-commerce Site)",
     "summary": "This website using only for save any website link",
-    "image": "./projects/bee.png",
+    "image": "./projects/music-world.PNG",
     "features": [
       {
         "_id": 1,
-        "feature": "User can save all their useful websites"
+        "feature": "User can buy the product "
       },
       {
         "_id": 2,
-        "feature": "User can earn money by clicking and know the total number of clicks"
+        "feature": "User purchase their suitable courses and can watch the video"
       },
       {
         "_id": 3,
-        "feature": "User can earn money by clicking and know the total number of clicks"
+        "feature": "User can check their dashboard"
       },
       {
         "_id": 4,
-        "feature": "User can earn money by clicking and know the total number of clicks"
+        "feature": "User can payment through the stripe payment system "
       }
     ],
     "technology": [
@@ -98,8 +98,8 @@
     ],
 
     "links": {
-      "live": "https://webbeelink.web.app/",
-      "client": "https://github.com/MehediHasan95/bee-link.git",
+      "live": "https://music-world-358e7.web.app/",
+      "client": "https://github.com/omihasan1307/music-world",
       "server": null
     }
   }
