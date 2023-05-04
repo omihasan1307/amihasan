@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "project": "Event Management (GuestList)",
+    "summary": "This website using only for save any website link",
+    "image": "./projects/guestList.PNG",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can log in through the Google authentication "
+      },
+      {
+        "_id": 2,
+        "feature": "User can invite and check the guest list"
+      },
+      {
+        "_id": 3,
+        "feature": "User can calculate their event cost automatically"
+      },
+      {
+        "_id": 4,
+        "feature": "User can see the heighest paid guest through the graph "
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 4,
+        "name": "React JS"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      }
+    ],
+
+    "links": {
+      "live": "https://guest-list-8db3f.web.app/profile/info",
+      "client": "https://github.com/omihasan1307/guest-list",
+      "server": null
+    }
+  },
+  {
+    "id": 1,
+    "project": "Website link management (BeeLink)",
+    "summary": "This website using only for save any website link",
+    "image": "./projects/bee.png",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can save all their useful websites"
+      },
+      {
+        "_id": 2,
+        "feature": "User can earn money by clicking and know the total number of clicks"
+      },
+      {
+        "_id": 3,
+        "feature": "User can earn money by clicking and know the total number of clicks"
+      },
+      {
+        "_id": 4,
+        "feature": "User can earn money by clicking and know the total number of clicks"
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "React JS"
+      },
+      {
+        "_id": 4,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      }
+    ],
+
+    "links": {
+      "live": "https://webbeelink.web.app/",
+      "client": "https://github.com/MehediHasan95/bee-link.git",
+      "server": null
+    }
+  }
+]
